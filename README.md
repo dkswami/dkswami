@@ -55,4 +55,6 @@ jobs:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkswami&theme=tokyonight)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?dkswami" frameborder="0"></iframe>
+
 https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
