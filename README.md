@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dkswami
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 I’m currently working in Full Stack Development.
 - 💞️ I’m looking to collaborate on MERN Stack Projects.
 - 📫 How to reach me at dkswami1820@gmail.com
 
