@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.dkswami.tech/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/deepak-kumar-swami-030a25136/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:dkswami1820@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -28,33 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=dkswami.dkswami)
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/dkswami?label=Follow&style=social)](https://github.com/dkswami)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/charalambosioannou"
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dkswami&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkswami&theme=tokyonight)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?dkswami" frameborder="0"></iframe>
-
-https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+<iframe width="600" height="600" src="https://dkswami.tech" frameborder="0"></iframe>
